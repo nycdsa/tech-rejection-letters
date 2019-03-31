@@ -9,8 +9,8 @@ Working at Amazon would mean working for a company that:
 - Pays no federal taxes, despite being one of the most profitable companies in the US, if not the world.
 - Pits cities against each other in a race to the bottom, for billions in subsidies, that it doesn't need.
 - Doesn't just develop facial recognition software used by law enforcement and ICE, but also refuses to back down from these contracts.
-- Disregards any social obligation to it's own home city, by pressuring the Seattle city council to overturn a tax intended to help build affordable housing.
-- Has a long history of horrible working conditions, worker abuse, and even worker death at it's warehouses.
+- Disregards any social obligation to its own home city, by pressuring the Seattle city council to overturn a tax intended to help build affordable housing.
+- Has a long history of horrible working conditions, worker abuse, and even worker death at its warehouses.
 
 Again, thank you for reaching out about this opportunity. I’m grateful to be considered, but until Amazon stops putting profit over people, I refuse to work for Amazon.
 
