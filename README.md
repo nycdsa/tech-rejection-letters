@@ -19,8 +19,9 @@ Citing labor abuses, union busting, divestment in services & infrastructure for 
 Since Amazon’s operations heavily rely on the labor of tech workers, tech workers in NYC [pledged](https://www.coworker.org/petitions/no-work-for-amazon-new-york-1) that if Amazon were to create an HQ2 here, that we would not work for them - and we would let Amazon’s recruiters know why. This project was inspired by a history of tech workers [refusing](https://spectrum.ieee.org/view-from-the-valley/at-work/tech-careers/engineers-say-no-thanks-to-silicon-valley-recruiters-citing-ethical-concerns) [to work](https://medium.com/@tessr/dear-uber-recruiter-7f5f9b304662) [for companies](https://medium.com/@taraadiseshan/dear-uber-recruiter-part-two-680c863d6fae) [engaged](https://code.likeagirl.io/dear-uber-recruiter-trying-to-hire-women-in-tech-do-you-think-this-is-normal-f570f703c55) in unethical behavior.
 
 ## How can I submit a rejection letter? 
-To submit your own rejection letter, just open a PR against this repo. Just follow the instruction, but generally:
+To submit your own rejection letter, just open a pull request with your new [company].md rejection letter. 
 
+Some guidelines:
 - all rejection letters go in the /rejection-letters folder
 - no limit on the # of rejection letters for a particular company. if you wanted to write another amazon rejection letter, just add a number to the end of the filename (amazon-2.md, amazon-3.md, etc)
 - markdown format, ideally
