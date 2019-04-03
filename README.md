@@ -21,7 +21,8 @@ Since Amazon’s operations heavily rely on the labor of tech workers, tech work
 To submit your own rejection letter, just open a PR against this repo. Just follow the instruction, but generally:
 
 - all rejection letters go in the /rejection-letters folder
-- markdown format
+- no limit on the # of rejection letters for a particular company. if you wanted to write another amazon rejection letter, just add a number to the end of the filename (amazon-2.md, amazon-3.md, etc)
+- markdown format, ideally
 - be clear, concise, and allow for re-usability by others
 - cite your sources, if any. the more the better!
 
