@@ -27,5 +27,5 @@ Some guidelines:
 - markdown format, ideally
 - be clear, concise, and allow for re-usability by others
 - cite your sources, if any. the more the better!
-
+- keep it professional!
 
