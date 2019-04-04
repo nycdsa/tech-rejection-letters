@@ -4,12 +4,6 @@
 This is a repo to house rejection letter templates for tech industry recruiters maintained by members of [NYC-DSA Tech Action](techaction.nyc), [Tech Workers Coalition NYC](https://techworkerscoalition.org/nyc/), and [Coworker.org](coworker.org). 
 
 Feel free to use these templates to create or modify your own refusal letters to tech companies engaged in practices that don’t align with the principles of social justice, community accountability, or worker democracy.
-Why are we doing this? 
-After Amazon launched unfair nationwide bidding war for city and state tax subsidies for their HQ2 location, Amazon announced they would be moving to New York City in November of 2018. 
-
-Citing labor abuses, union busting, divestment in services & infrastructure for people living outside of homes, collaboration with ICE and police departments, and no transparent commitment to making its environmental impact more sustainable, communities in NYC fought back. 
-
-Since Amazon’s operations heavily rely on the labor of tech workers, tech workers in NYC pledged that if Amazon were to create an HQ2 here, that we would not work for them - and we would let Amazon’s recruiters know why. This project was inspired by a history of tech workers refusing to work for companies engaged in unethical behavior.
 
 ## Why are we doing this? 
 After Amazon launched unfair nationwide bidding war for city and state tax subsidies for their HQ2 location, Amazon announced they would be moving to New York City in November of 2018. 
