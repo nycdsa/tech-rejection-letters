@@ -4,7 +4,7 @@ Thanks for thinking of me for this role!
 
 While I am delighted at [having been offered | being considered for] the position of [position here], I’m terribly sorry to inform you that I must decline, as I cannot in good conscience work at a company as unethical as [company name here].
 
-Working at [company name here] would mean working for a company that:
+The following is a list of reasons why I refuse to work for [company name here].
 
 - [list of reasons here]
 

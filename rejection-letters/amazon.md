@@ -4,14 +4,14 @@ Thanks for thinking of me for this role!
 
 While I am delighted at [having been offered | being considered for] the position of [position here], I’m sorry to inform you that I must decline, as I cannot in good conscience work at a company as unethical as Amazon.
 
-Working at Amazon would mean working for a company that:
+The following is a list of reasons why I refuse to work for Amazon.
 
-- Pays no federal taxes, despite being one of the most profitable companies in the US, if not the world.
-- Pitted cities against each other in a race to the bottom, for billions in subsidies, that it doesn't need.
-- Doesn't just develop facial recognition software used by law enforcement and ICE, but also refuses to back down from these contracts.
-- Disregards any social obligation to its own home city, by pressuring the Seattle city council to overturn a tax intended to help build affordable housing.
-- Has a long history of horrible working conditions, worker abuse, and even worker death at its warehouses.
-- Pushes a public image of being environmentally friendly, while actively backtracking from previous committments - on top of heavily courting the oil and gas industries.
+- They pay no federal taxes, despite being one of the most profitable companies in the US, if not the world.
+- They pitted cities against each other in a race to the bottom, for billions in subsidies, that it doesn't need.
+- They develop facial recognition software used by law enforcement and ICE, and refuse to back down from these contracts despite internal and external pressure to do so.
+- They disregard any social obligation to their home city, by pressuring the Seattle city council to overturn a tax intended to help build affordable housing (a tax that was overwhelmingly approved by the public).
+- They have a long history of horrible working conditions, worker abuse, and even worker death at its warehouses.
+- Amazon has pushed a public image of being environmentally friendly, while actively backtracking from previous committments - on top of heavily courting the oil and gas industries.
 
 Again, thank you for reaching out about this opportunity. I’m grateful to be considered, but until Amazon stops putting profit over people, I refuse to work for Amazon.
 
