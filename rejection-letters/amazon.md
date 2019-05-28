@@ -7,9 +7,9 @@ While I am delighted at [having been offered | being considered for] the positio
 The following is a list of reasons why I refuse to work for Amazon.
 
 - They pay no federal taxes, despite being one of the most profitable companies in the US, if not the world.
-- They pitted cities against each other in a race to the bottom, for billions in subsidies, that it doesn't need.
+- They pitted cities against each other in a race to the bottom, for billions in subsidies, that Amazon doesn't need.
 - They develop facial recognition software used by law enforcement and ICE, and refuse to back down from these contracts despite internal and external pressure to do so.
-- They disregard any social obligation to their home city, by pressuring the Seattle city council to overturn a tax intended to help build affordable housing (a tax that was overwhelmingly approved by the public).
+- They disregard any social obligation to their home city, by pressuring the Seattle city council to overturn a tax intended to help build affordable housing – a tax overwhelmingly approved by the public.
 - They have a long history of horrible working conditions, worker abuse, and even worker death at its warehouses.
 - Amazon has pushed a public image of being environmentally friendly, while actively backtracking from previous committments - on top of heavily courting the oil and gas industries.
 
