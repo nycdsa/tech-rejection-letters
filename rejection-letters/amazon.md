@@ -11,7 +11,7 @@ The following is a list of reasons why I refuse to work for Amazon.
 - They develop facial recognition software used by law enforcement and ICE, and refuse to back down from these contracts despite internal and external pressure to do so.
 - They disregard any social obligation to their home city, by pressuring the Seattle city council to overturn a tax intended to help build affordable housing – a tax overwhelmingly approved by the public.
 - They have a long history of horrible working conditions, worker abuse, and even worker death at its warehouses.
-- Amazon has pushed a public image of being environmentally friendly, while actively backtracking from previous committments - on top of heavily courting the oil and gas industries.
+- Amazon has pushed a public image of being environmentally friendly, while actively backtracking from previous commitments - on top of heavily courting the oil and gas industries.
 
 Again, thank you for reaching out about this opportunity. I’m grateful to be considered, but until Amazon stops putting profit over people, I refuse to work for Amazon.
 
@@ -37,6 +37,5 @@ My references for the above claims:
 14. https://www.businessinsider.my/how-whole-foods-uses-scorecards-to-punish-employees-2018-1/
 15. https://www.motherjones.com/politics/2012/02/mac-mcclelland-free-online-shipping-warehouses-labor/4/
 16. https://gawker.com/i-do-not-know-one-person-who-is-happy-at-amazon-1572478351
-17. https://highline.huffingtonpost.com/articles/en/life-and-death-amazon-temp/
-18. https://medium.com/@amazonemployeesclimatejustice/public-letter-to-jeff-bezos-and-the-amazon-board-of-directors-82a8405f5e38
-19. https://aws.amazon.com/oil-and-gas/
+17. https://medium.com/@amazonemployeesclimatejustice/public-letter-to-jeff-bezos-and-the-amazon-board-of-directors-82a8405f5e38
+18. https://aws.amazon.com/oil-and-gas/
