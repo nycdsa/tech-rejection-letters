@@ -5,7 +5,7 @@ While I am delighted at [having been offered | being considered for] the positio
 
 The following is a list of reasons why I refuse to work for Facebook.
 
-- Facebook continues to allows politicians and political campaigns to run false ads.
+- Facebook continues to allow politicians and political campaigns to run false ads.
 - Facebook continually violates the privacy of users and non users. This includes the creation of so-called "Shadow Profiles", which exploit user data to build profiles on non-users and users alike.
 - Facebook deliberately mislead users around the amount of data the company's Android app was using, the amount of data it was collecting from user email logins, the way it was using 2FA phone numbers, and on and on and on.
 - Facebook allows advertisers to target users based on legally protected categories.
