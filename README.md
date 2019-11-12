@@ -1,7 +1,7 @@
 # Dear [tech company] Recruiter
 
 ## What is this?
-This is a repo to house rejection letter templates for tech industry recruiters maintained by members of [NYC-DSA Tech Action](techaction.nyc), [Tech Workers Coalition NYC](https://techworkerscoalition.org/nyc/), and [Coworker.org](coworker.org). 
+This is a repo to house rejection letter templates for tech industry recruiters maintained by members of [NYC-DSA Tech Action](https://techaction.nyc), [Tech Workers Coalition NYC](https://techworkerscoalition.org/nyc/), and [Coworker.org](https://coworker.org). 
 
 Feel free to use these templates to create or modify your own refusal letters to tech companies engaged in practices that don’t align with the principles of social justice, community accountability, or worker democracy.
 
