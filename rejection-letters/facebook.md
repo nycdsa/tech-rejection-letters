@@ -25,12 +25,12 @@ Best,
 
 My references for the above:
 1. https://arstechnica.com/tech-policy/2019/10/political-ads-can-lie-if-they-want-facebook-confirms/
-2. https://www.mercurynews.com/2019/10/01/mark-zuckerberg-facebook-will-go-to-the-mat-to-fight-warrens-company-breakup-efforts/
-3. https://www.theverge.com/2018/4/11/17225482/facebook-shadow-profiles-zuckerberg-congress-data-privacy
-4. https://www.theregister.co.uk/2018/12/05/facebook_email_leak/
-5. https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.2f95b5946828
-6. https://eu.usatoday.com/story/news/2019/04/24/facebook-while-black-zucked-users-say-they-get-blocked-racism-discussion/2859593002/
-7. https://www.businessinsider.nl/facebook-uploaded-1-5-million-users-email-contacts-without-permission-2019-4/?international=true&r=US
-8. https://lucyparsonslabs.com/posts/BIPA-Victory/
-9. https://gizmodo.com/it-still-takes-almost-no-effort-to-find-white-nationali-1833845520
-10. https://eu.usatoday.com/story/news/2019/03/19/facebook-pledges-block-ad-discrimination-targeting-older-workers-blacks/3208282002/
+1. https://www.mercurynews.com/2019/10/01/mark-zuckerberg-facebook-will-go-to-the-mat-to-fight-warrens-company-breakup-efforts/
+1. https://www.theverge.com/2018/4/11/17225482/facebook-shadow-profiles-zuckerberg-congress-data-privacy
+1. https://www.theregister.co.uk/2018/12/05/facebook_email_leak/
+1. https://www.washingtonpost.com/technology/2019/05/08/inside-facebook-second-class-workers-who-do-hardest-job-are-waging-quiet-battle/?noredirect=on&utm_term=.2f95b5946828
+1. https://eu.usatoday.com/story/news/2019/04/24/facebook-while-black-zucked-users-say-they-get-blocked-racism-discussion/2859593002/
+1. https://www.businessinsider.nl/facebook-uploaded-1-5-million-users-email-contacts-without-permission-2019-4/?international=true&r=US
+1. https://lucyparsonslabs.com/posts/BIPA-Victory/
+1. https://gizmodo.com/it-still-takes-almost-no-effort-to-find-white-nationali-1833845520
+1. https://eu.usatoday.com/story/news/2019/03/19/facebook-pledges-block-ad-discrimination-targeting-older-workers-blacks/3208282002/
