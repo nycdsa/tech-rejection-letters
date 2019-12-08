@@ -5,8 +5,8 @@ While I am delighted at [having been offered | being considered for] the positio
 
 The following is a list of reasons why I refuse to work for Facebook.
 
-- Facebook's policy of allowing political candidates to pay to promote false information
-- Mark Zuckerberg's troubling comments about "going to the mat" to fight efforts to break up Facebook and big tech companies
+- Facebook's policy of allowing political candidates to pay to promote false information.
+- Mark Zuckerberg's troubling comments about "going to the mat" to fight efforts to break up Facebook and big tech companies.
 - Facebook continually violates the privacy of users and non users. This includes the creation of so-called "Shadow Profiles", which exploit user data to build profiles on non-users and users alike.
 - Facebook deliberately mislead users around the amount of data the company's Android app was using, the amount of data it was collecting from user email logins, the way it was using 2FA phone numbers, and on and on and on.
 - Facebook allows advertisers to target users based on legally protected categories.
