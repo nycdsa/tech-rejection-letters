@@ -13,6 +13,7 @@ The following is a list of reasons why I refuse to work for Facebook.
 - Though Facebook recently increased contractor's wages, it still took a multi-year external effort to convince the company to treat contracted labor remotely fairly.
 - Facebook aggressively moderates people of color while allowing white supremacists and other hate groups to remain on the platform.
 - In the US (and elsewhere) Facebook is actively working to prevent and undermine laws protecting users' biometric data.
+- As the COVID pandemic was rising, Facebook was willing to risk the lives of many of its lowest paid workers.
 
 ...and this is just the relatively recent set of stories.
 
@@ -34,3 +35,4 @@ My references for the above:
 1. https://lucyparsonslabs.com/posts/BIPA-Victory/
 1. https://gizmodo.com/it-still-takes-almost-no-effort-to-find-white-nationali-1833845520
 1. https://eu.usatoday.com/story/news/2019/03/19/facebook-pledges-block-ad-discrimination-targeting-older-workers-blacks/3208282002/
+1. https://medium.com/@BudBaxter/facebook-was-willing-to-risk-the-lives-of-many-of-its-lowest-paid-workers-4f9550e82e37
