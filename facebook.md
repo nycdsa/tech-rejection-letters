@@ -11,9 +11,7 @@ It really could impact the world for good but it chooses not to do so in a time 
 
 In short, Facebook is an unregulated, monopolist, greedy company for which I will never, ever consider working.
 
-In addition, I find no value whatsoever in Facebook as a product, and haven't used it since 2011.
-
 I appreciate you reaching out, but you can remove me from your list for any future opportunities. Good luck in your recruiting!
 
 Sincerely,
-Amy Santee
+x
